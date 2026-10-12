@@ -1,0 +1,10 @@
+1 Sitabuldi
+2 Dharampeth
+3 Sadar
+4 ManishNagar
+5 PratapNagar
+6 HingnaRoad
+7 WardhamanNagar
+8 CivilLines
+9 Itwari
+10 BajajNagar
